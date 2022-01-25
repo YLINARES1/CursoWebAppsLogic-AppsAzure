@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DPAP5\\Web Apps\\Plaziwebsite\\Plaziwebsite.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DPAP5\\Web Apps\\Plaziwebsite\\Plaziwebsite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DPAP5\\Web Apps\\Plaziwebsite\\Plaziwebsite.csproj",
+        "projectName": "Plaziwebsite",
+        "projectPath": "C:\\Users\\DPAP5\\Web Apps\\Plaziwebsite\\Plaziwebsite.csproj",
+        "packagesPath": "C:\\Users\\DPAP5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DPAP5\\Web Apps\\Plaziwebsite\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DPAP5\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
